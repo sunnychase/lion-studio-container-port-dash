@@ -1,3 +1,5 @@
+<p align="center"><img src="docs/images/logo.png" width="148" alt="Lion Studio - Container Port Dash"></p>
+
 <h1 align="center">Lion Studio - Container Port Dash</h1>
 <p align="center"><b>Every port on your Linux machine, what it is, who owns it, and where your data goes</b><br>
 One small container shows every listening port in plain words, the service or container behind it, the live traffic on it,

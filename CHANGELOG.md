@@ -1,5 +1,9 @@
 # Changelog
 
+## 2.0.1 — 2026-10-20
+
+- README: the Lion Studio logo (the lion head) at the top, as in the other Lion Studio repositories.
+
 ## 2.0.0 — 2026-10-20
 
 - **Container Port Dash** (was a private "ports" page): every listening port with a plain-words description of what it is
